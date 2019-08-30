@@ -11,7 +11,7 @@ To install:
 <br>
 Included are two dictionaries, the Collins 2015 Scrabble Dictionary and a Master Word List, containing all the words from *a* to *zwitterionic*.
 
-
+<br>
 To boot the script:
 ``$ python Scrabble/scrabble.py``
 <br>
