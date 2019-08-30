@@ -5,7 +5,6 @@ This tool takes a tileset as input and returns valid words sorted by word length
 ## Installation and Usage:
 To install:
 ``$ git clone https://github.com/cjporteo/scrabble-assist``
-
 <br>
 Included are two dictionaries, the Collins 2015 Scrabble Dictionary and a Master Word List, containing all the words from *a* to *zwitterionic*.
 
@@ -28,6 +27,7 @@ Results are displayed to the terminal, along with runtime statistics.
 Word prompting will continue until ``0`` is inputted to exit the utility.
 
 ## Algorithms
+
 First, let's talk about the aforementioned data structures that were created when initializing the dictionary. 
 
 We start by sorting the dictionary by word length, descending.
