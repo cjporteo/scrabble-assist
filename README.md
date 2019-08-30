@@ -4,6 +4,7 @@ This tool takes a tileset as input and returns valid words sorted by word length
 
 ## Installation and Usage:
 To install:
+
 <br>
 ``$ git clone https://github.com/cjporteo/scrabble-assist``
 <br>
