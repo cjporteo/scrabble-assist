@@ -5,11 +5,14 @@ This tool takes a tileset as input and returns valid words sorted by word length
 ## Installation and Usage:
 To install:
 ``$ git clone https://github.com/cjporteo/scrabble-assist``
+
 <br>
 Included are two dictionaries, the Collins 2015 Scrabble Dictionary and a Master Word List, containing all the words from *a* to *zwitterionic*.
 
 To boot the script:
 ``$ python Scrabble/scrabble.py``
+<br>
+
 There 3 optional command line arguments:
 
  - dictionary to be used, either ``collins15`` or ``master`` - **Default**: ``collins15``
