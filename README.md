@@ -9,6 +9,7 @@ To install:
 ``$ git clone https://github.com/cjporteo/scrabble-assist``
 
 <br>
+
 Included are two dictionaries, the Collins 2015 Scrabble Dictionary and a Master Word List, containing all the words from *a* to *zwitterionic*.
 
 <br>
