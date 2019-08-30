@@ -15,8 +15,8 @@ To boot the script:
 There 3 optional command line arguments:
 
  - dictionary to be used, either ``collins15`` or ``master`` - **Default**: ``collins15``
- - number of total results to output - **Default**: 45
- - number of rows displayed  - **Default**: 15
+ - number of total results to output - **Default**: ``45``
+ - number of rows displayed  - **Default**: ``15``
 
 Upon seeing a dictionary for the first time, the script will configure some useful data structures to use for anagram searching. This will take a few seconds to complete, and the objects will be serialized and written to local storage as *pickles*. When this dictionary is called again in the future, the *pickles* will be imported for use.
 
