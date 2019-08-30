@@ -34,7 +34,8 @@ We start by sorting the dictionary by word length, descending.
 
 We then iterate through the dictionary, creating a word hashmap.
 This hashmap uses lexicographically sorted tilesets (A to Z) as keys, and a list of all valid word with that tileset as values.
-### Example:
+
+**Example:**
 ```"AER" : ["are", "ear", "era"]```
 
 The next data structure needed is a counter list, a list of ``Counter`` objects storing the letter frequency for each key in the word hashmap.
