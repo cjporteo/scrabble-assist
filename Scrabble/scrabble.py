@@ -4,8 +4,7 @@ from sys import argv
 import time
 
 wordlist_map = {"collins15": ("Collins 2015", "collins2015.txt"),
-                "master": ("Master", "masterwords.txt"),
-                "practice": ("Practice", "practice.txt")}
+                "master": ("Master", "masterwords.txt")}
 
 k = argv[1] if len(argv) > 1 else "collins15"  # chosen wordlist
 t = int(argv[2]) if len(argv) > 2 else 45  # number of results displayed
