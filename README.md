@@ -17,6 +17,7 @@ Included are two dictionaries, the Collins 2015 Scrabble Dictionary and a Master
 To boot the script:
 
 <br>
+
 ``$ python Scrabble/scrabble.py``
 
 <br>
