@@ -36,8 +36,6 @@ Results are displayed to the terminal, along with runtime statistics.
 
 Word prompting will continue until ``0`` is inputted to exit the utility.
 
-![](https://scontent.fybz2-2.fna.fbcdn.net/v/t1.15752-9/69898963_1193142634206359_5133116402739183616_n.png?_nc_cat=104&_nc_oc=AQkIFHIAhh4y-SiqEQJ1XcUVOm71cOu10iNo_4qoMUZWq8sJFMHk0hC7SwEnssMjCt0&_nc_ht=scontent.fybz2-2.fna&oh=9f74d25d1922e928bfe84dab262ba85b&oe=5E0D7A7A)
-
 ## Algorithms
 
 First, let's talk about the aforementioned data structures that were created when initializing the dictionary. 
